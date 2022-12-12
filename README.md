@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam Byers!
-- 👀 I’m interested in technical leadersship, infrastructure, and security.
+- 👀 I’m interested in technical leadership, infrastructure, and security.
 - 🌱 I’m currently learning cloud architecture design patterns, Software BOMs, and the business and usage of AI/ML.
 - 💞️ I’m looking to collaborate on interesting use cases and POCs with Cisco APIs.
 - 📫 Reach me at my website [sambyers.net](https://sambyers.net)
